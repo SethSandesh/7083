@@ -12,4 +12,3 @@ public class AddTwoNumbers {
         return a + b;
     }
 }
-
